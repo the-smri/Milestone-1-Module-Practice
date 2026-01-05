@@ -20,3 +20,22 @@
     font-style:italic;
 }
 
+.pythagoras-container{
+    margin-top: 50px;
+}
+
+.pythagoras-container h2, #pyimg {
+    text-align: center;
+}
+
+ #pyimg {
+    text-align: center;
+}
+
+#pyimg {
+  /* display: block; */
+  display:flex;
+  margin: 0 auto;
+}
+
+
