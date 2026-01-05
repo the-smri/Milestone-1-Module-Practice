@@ -1,0 +1,12 @@
+.externalCss{
+    border: 5px solid black;
+    margin-top: 10px;
+    background-color:chartreuse;
+}
+
+.externalCss h2{
+    font-style: italic;
+    text-align: center;
+    color: blue;
+}
+
