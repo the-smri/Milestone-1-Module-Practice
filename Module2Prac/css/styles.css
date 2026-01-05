@@ -1,5 +1,7 @@
 .externalCss{
     border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px green;
     margin-top: 10px;
     background-color:chartreuse;
 }
@@ -8,5 +10,13 @@
     font-style: italic;
     text-align: center;
     color: blue;
+}
+
+.externalCss p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    text-align: justify;
+    color:blue;
+    font-style:italic;
 }
 
